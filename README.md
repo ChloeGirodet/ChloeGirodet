@@ -1,8 +1,8 @@
 # 👩‍💻 Bonjour, je suis Chloé 👋
 
-<img src="./images/github-banner.png" alt="Bannière Github Développeuse Web et Mobile">
+<img src="./img/github-banner.png" alt="Bannière Github Développeuse Web et Mobile">
 
-## Curieuse et persévérante, j'ai effectué une reconversion professionnelle dans le développement Web, domaine dans lequel je m'épanouis pleinement et qui me permet de relever chaque jour de nouveaux défis !
+<p>Curieuse et persévérante, j'ai effectué une reconversion professionnelle dans le développement Web, domaine dans lequel je m'épanouis pleinement et qui me permet de relever chaque jour de nouveaux défis !</p>
 
 ## Langages et outils utilisés
 
@@ -29,5 +29,5 @@
 
 ## Stats GitHub
 
-![Chloe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChloeGirodet&show_icons=true&theme=vision-friendly-dark)
-[![Chloe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChloeGirodet&theme=vision-friendly-dark)]
+![Chloe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChloeGirodet&count_private=true&show_icons=true&theme=vision-friendly-dark)
+![Chloe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChloeGirodet&count_private=true&theme=vision-friendly-dark)
